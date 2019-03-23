@@ -1,2 +1,2 @@
 # Airfoil-optimization
-Using MATLAB, working on optimizing the surface of an airfoil based on a genetic algorithm and other optimization algorithms. The project has not ended yet.
+With MATLAB, trying to optimize the surface of an airfoil using a genetic algorithm and other optimization algorithms. The project still on progress.
