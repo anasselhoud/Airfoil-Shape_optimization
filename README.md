@@ -13,7 +13,7 @@ The basic idea behind the genetic algorithms approach is tosearch for optimal so
 - parsec.m : this function is also called inside the GAairfoil script. It helps in generatingthe parsec coeﬃcients for the airfoil parametrization based on parsec parameters.
 - yCoord2.m : this function takes the parsec parameters and the output of parsec.m func-tion and transforms them into X and Y coordinates, ready to plot and visualize.
 - plotairfoil.m : this function calls the yCoord2.m function in order to plot the airfoilbased on the output coordinates.
--airenaca.m: this function calculates the area value for each input airfoil.
+- airenaca.m: this function calculates the area value for each input airfoil.
 - runit.m : this is the main script of the optimization. We set the initial airfoil, and runthe genetic algorithm and other instructions
 
 # Summarized result
