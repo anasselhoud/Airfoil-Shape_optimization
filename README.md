@@ -17,7 +17,7 @@ The basic idea behind the genetic algorithms approach is tosearch for optimal so
 - runit.m : this is the main script of the optimization. We set the initial airfoil, and runthe genetic algorithm and other instructions
 
 # Summarized result
-![alt text](https://svgshare.com/s/GPo)
+![alt text](https://svgshare.com/i/GPo.svg)
 
 # Add: Airfoil Parameterizer and Generator App
 
