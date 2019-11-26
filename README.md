@@ -1,5 +1,5 @@
 # Airfoil Shape Optimization: A Reinforcement Learning Approach
-We optimize the surface and aerodynamic performence of an airfoil using reinforcement learning, genetic algorithms. 
+We optimize the shape and aerodynamic performence of an airfoil using reinforcement learning, genetic algorithms. 
 
 We start by generating and parametrizing the initial airfoil, NACA 2412. The resulting points will be memorized as 4 Vectors (size of each one=1x100). These 4 vectors represent the initial global vector, where the optimization starts. (See the file generatenaca2412.m).
 
