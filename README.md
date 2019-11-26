@@ -19,7 +19,7 @@ The basic idea behind the genetic algorithms approach is tosearch for optimal so
 # Summarized result
 ![alt text](https://svgshare.com/i/GPo.svg)
 
-# Add: Airfoil Parameterizer and Generator App
+# Add-in: Airfoil Parameterizer and Generator App
 
 Using MATLAB GUI, I created a platforme that plot and generate the control points of the cross sectionnal surface of the NACA airfoil. You will find the scripts used in the folder titled "Airfoil Parameterizer App". This application allows to anyone to generate the form of the cross sectionnal surface of the airfoil using only the NACA 4-digits representation.
 
