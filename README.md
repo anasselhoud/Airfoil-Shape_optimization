@@ -18,7 +18,7 @@ The basic idea behind the genetic algorithms approach is tosearch for optimal so
 
 # Summarized result
 ![alt text](https://svgshare.com/i/GPo.svg)
-![alt text](https://ibb.co/2MF5ZYy)
+![alt text](https://i.ibb.co/8xmXY40/Capture-d-e-cran-2020-02-01-a-20-13-10.png)
 
 # Add-in: Airfoil Parameterizer and Generator App
 
